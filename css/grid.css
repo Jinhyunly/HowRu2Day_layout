@@ -1,0 +1,37 @@
+body{
+    margin:0;
+    padding:0;
+}
+.container{
+    text-align: center;
+}
+#header{
+    height:55vh;
+}
+#nav{
+    height:15vh;
+}
+.nav_content{
+    
+}
+#calender{
+    
+}
+#cummunity{
+   
+}
+#hospital{
+  
+}
+#community_info{
+    height:20vh;
+    background-color: bisque;
+}
+#advertising{
+    height:35vh;
+    background-color: palevioletred;
+}
+#recommend{
+    height:400px;
+    background-color: thistle;
+}
